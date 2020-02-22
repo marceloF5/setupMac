@@ -1,4 +1,4 @@
-# Setup mac
+# Setup Mac
 This guidelines are to be followed everytime you backup your mac
 ## Homebrew
 Install homebrew
